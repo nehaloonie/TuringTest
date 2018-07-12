@@ -8,7 +8,7 @@ https://i.diawi.com/JPBFui
 
 [Android]
 
-The Android app is avaiable on Diawi so you can install it on your Android Phone here.
+The Android app is available on Diawi so you can install it on your Android Phone here.
 
 https://i.diawi.com/24uSwp
 
