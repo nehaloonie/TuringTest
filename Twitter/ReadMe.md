@@ -1,18 +1,18 @@
-## How to install builds
+## How to install the apps
 
 [iOS]
 
-The iOS app is available on Diawi so please download and install it on your iPhone here.
+The iOS app is available on Diawi so please download and install it on your iPhone here:
 
 https://i.diawi.com/JPBFui
 
 [Android]
 
-The Android app is available on Diawi so you can install it on your Android Phone here.
+The Android app is available on Diawi so you can install it on your Android Phone here:
 
 https://i.diawi.com/24uSwp
 
-You can manually download and install the Android Apk here
+You can manually download and install the Android Apk here:
 
 https://github.com/GuiTuring/TuringTest/blob/master/Twitter/download_app_here/android/TwitterTest.apk
 
