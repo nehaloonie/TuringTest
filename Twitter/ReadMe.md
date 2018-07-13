@@ -14,7 +14,7 @@ https://i.diawi.com/24uSwp
 
 You can manually download and install the Android Apk here
 
-\build\android\TwitterTest.apk
+https://github.com/GuiTuring/TuringTest/blob/master/Twitter/download_app_here/android/TwitterTest.apk
 
 ## Things to do:
 
